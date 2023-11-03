@@ -1,5 +1,5 @@
 ![MERN Stack Developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/358124698_668333058645596_2192720244021172004_n.png?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=eBSJMhalgc0AX87V5_l&_nc_ht=scontent.fdac14-1.fna&oh=00_AfBicz1bjNNrIE-ZBXlaAkzgVU93NiLgKcURFy5kgZI3iw&oe=6548D88E)
-### Hi there 👋, my name is Md. Iftekhirull (Naim)
+### Hi there 👋, I am Md. Iftekhirull (Naim)
 #### MERN Stack Developer
 
 
