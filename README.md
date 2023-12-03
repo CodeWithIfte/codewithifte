@@ -17,10 +17,6 @@
 ### 👉 Programming Languages
 <p align="center"> 
   &emsp;
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  &emsp;
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  &emsp;
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
 </p>
 
@@ -28,6 +24,8 @@
 <p align="center"> 
   &emsp; 
   <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB">
+  &emsp;
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js%20-%2320232a.svg?style=plastic&logo=next.js&logoColor=%2361DAFB">
   &emsp;
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=plastic&logo=node.js&logoColor=white">
   &emsp;
