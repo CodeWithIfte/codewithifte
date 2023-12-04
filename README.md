@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Md. Iftekhirull (Ifty) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="mailto:codewithiftekhar@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/codewithiftekhar"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/codewithiftekhar"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/codewithifty"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/codewithifty"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ## :computer: About Me
@@ -11,7 +11,7 @@
 - :books: Always eager to learn and explore new technologies
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithiftekhar&theme=algolia" alt="Streak Stats" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithifty&theme=algolia" alt="Streak Stats" /></p>
 
 ## 🛠️ Skills
 ### 👉 Programming Languages
@@ -36,7 +36,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codewithiftekhar&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codewithifty&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 </p>
 
 ----
@@ -44,9 +44,9 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-  <a href="https://github.com/codewithiftekhar"><img alt="Your Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=codewithiftekhar&custom_title=Your%20Contribution%20Graph&theme=react-dark" /></a>
+  <a href="https://github.com/codewithifty"><img alt="Your Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=codewithifty&custom_title=Your%20Contribution%20Graph&theme=react-dark" /></a>
 </details>
 
 ## :trophy: Git Profile Trophies
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithiftekhar&layout=compact&theme=algolia" alt="Your Trophies" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithifty&layout=compact&theme=algolia" alt="Your Trophies" /></a> </p>
 
