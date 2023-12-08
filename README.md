@@ -34,19 +34,3 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white">
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codewithifty&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-</p>
-
-----
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-  <a href="https://github.com/codewithifty"><img alt="Your Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=codewithifty&custom_title=Your%20Contribution%20Graph&theme=react-dark" /></a>
-</details>
-
-## :trophy: Git Profile Trophies
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithifty&layout=compact&theme=algolia" alt="Your Trophies" /></a> </p>
-
