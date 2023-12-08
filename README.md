@@ -1,4 +1,4 @@
-![Banner Image]([https://placeimg.com/1000/200/any](https://i.ibb.co/RCJrdYT/Black-Technology-Linked-In-Banner.png))
+![Banner Image](https://i.ibb.co/RCJrdYT/Black-Technology-Linked-In-Banner.png)
 <h1 align="center">Hi, I'm Md. Iftekhirull (Ifty) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="mailto:codewithiftekhar@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
