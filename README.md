@@ -10,9 +10,6 @@
 - :rocket: Skilled in HTML, CSS, JavaScript, React, Next.js, Node.js, Express, MongoDB
 - :books: Always eager to learn and explore new technologies
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithifty&theme=algolia" alt="Streak Stats" /></p>
-
 ## 🛠️ Skills
 ### 👉 Programming Languages
 <p align="center"> 
@@ -33,4 +30,8 @@
   &emsp;
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white">
 </p>
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithifty&theme=algolia" alt="Streak Stats" /></p>
+
 
