@@ -41,8 +41,8 @@ Completed **Diploma in Mechatronics Engineering at Rajshahi Polytechnic Institut
 
 ## 📫 Connect With Me  
 - 📧 Email: **mohammad.iftekhirull@gmail.com**  
-- 🌐 Portfolio: [codewithifty.netlify.com](https://codewithifte.netlify.app)  
-- 💻 GitHub: [github.com/codewithifty](https://github.com/codewithifte)  
+- 🌐 Portfolio: [codewithifte.netlify.app](https://codewithifte.netlify.app)  
+- 💻 GitHub: [github.com/codewithifte](https://github.com/codewithifte)  
 
 ---
 
