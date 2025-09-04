@@ -1,7 +1,7 @@
 # Hi there, I'm Ifte 👋  
 
 I’m a **Full Stack Web Developer** with expertise in **MERN Stack, WordPress, and Shopify Development**, blending engineering insights with modern web technologies.  
-Currently pursuing a **Diploma in Mechatronics Engineering at Rajshahi Polytechnic Institute**, I’m passionate about solving real-world challenges with scalable, innovative digital solutions.  
+Completed **Diploma in Mechatronics Engineering at Rajshahi Polytechnic Institute**, I’m passionate about solving real-world challenges with scalable, innovative digital solutions.  
 
 ---
 
@@ -41,9 +41,9 @@ Currently pursuing a **Diploma in Mechatronics Engineering at Rajshahi Polytechn
 
 ## 📫 Connect With Me  
 - 📧 Email: **mohammad.iftekhirull@gmail.com**  
-- 🌐 Portfolio: [codewithifty.netlify.com](https://codewithifty.netlify.com)  
-- 💻 GitHub: [github.com/codewithifty](https://github.com/codewithifty)  
+- 🌐 Portfolio: [codewithifty.netlify.com](https://codewithifte.netlify.app)  
+- 💻 GitHub: [github.com/codewithifty](https://github.com/codewithifte)  
 
 ---
 
-⭐️ From [Ifte](https://github.com/codewithifty)
+⭐️ From [Ifte](https://github.com/codewithifte)
